@@ -1,0 +1,7 @@
+bsu.fpmi.educational_practice2018.MessageJPanel$2
+bsu.fpmi.educational_practice2018.MessageJPanel$1
+bsu.fpmi.educational_practice2018.KeyValues
+bsu.fpmi.educational_practice2018.LabelValues
+bsu.fpmi.educational_practice2018.MessageJPanel$3
+bsu.fpmi.educational_practice2018.MessageJPanel
+bsu.fpmi.educational_practice2018.ButtonValues
